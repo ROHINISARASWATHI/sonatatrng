@@ -1,0 +1,10 @@
+import age
+import palindrome
+import count
+import highnum
+import rockpaperscissor
+import countfunc
+import agefunc
+import palindromefunc
+import rockfunction
+import highestfunction
