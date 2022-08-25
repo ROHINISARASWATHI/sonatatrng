@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import age
 import palindrome
 import count
@@ -7,4 +8,15 @@ import countfunc
 import agefunc
 import palindromefunc
 import rockfunction
+=======
+import age
+import palindrome
+import count
+import highnum
+import rockpaperscissor
+import countfunc
+import agefunc
+import palindromefunc
+import rockfunction
+>>>>>>> 431265381c1b7e895af2550c4679228ebd24d80a
 import highestfunction
