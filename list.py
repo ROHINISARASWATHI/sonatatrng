@@ -4,4 +4,3 @@ print (list1[3])
 print (list1[1:3])
 print (list1[3: ])
 print (list1[])
-list.

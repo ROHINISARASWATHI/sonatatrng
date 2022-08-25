@@ -4,4 +4,4 @@ class leave:
         self.name=name
         self.lvbal=leaveBalance
     def applyLeave(self):
-        return self.Id,self.name,self.lvbal
+        return self.id,self.name,self.lvbal
